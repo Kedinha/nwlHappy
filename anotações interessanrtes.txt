@@ -1,0 +1,16 @@
+    bottom: -70px;
+    left: 37px;
+}
+popup
+
+
+
+-- SQLite
+DELETE FROM orphanages;
+-- SQLite
+DELETE FROM images;
+
+
+Aprendemos sobre os hooks
+
+ciclo de renderização.
